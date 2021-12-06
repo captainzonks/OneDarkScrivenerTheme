@@ -1,0 +1,1 @@
+A Scrivener theme using the One Dark color codes.
